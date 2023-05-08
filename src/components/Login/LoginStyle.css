@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+.container {
+  width: 1364px;
+  height: 623px;
+  position: relative;
+}
+.tag {
+  float: left;
+  position: absolute;
+  right: 215px;
+  top: 260px;
+  z-index: 1000;
+}
